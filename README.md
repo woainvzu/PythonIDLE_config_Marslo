@@ -9,10 +9,10 @@ Copy the .idlerc folder to $HOME, and re-start IDLE
 Copy the .idlerc folder to %HOMEPATH%, and re-start IDLE
 
 ## Specific Shortcuts:
-Ctrl+p: Previous history
-Ctrl+n: Next history
-Alt+p:  Print page
-Alt+n:  New page
+- Ctrl+p: Previous history
+- Ctrl+n: Next history
+- Alt+p:  Print page
+- Alt+n:  New page
 
 ## Screenshots:
 ![IDLE1](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/IDLE1.png?raw=true)
