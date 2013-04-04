@@ -19,17 +19,13 @@ The configuration of Python IDLE
 - Alt+p:  Print page
 - Alt+n:  New page
 
-## IDLE Screenshots:
-![IDLE1](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/IDLE1.png?raw=true)
-![IDLE2](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/Screenshot2.png?raw=true)
 
 # IPython
 ## Installation
 
 ### Linux(Ubuntu)
 - Mandatory
-<pre><code>
-$ sudo apt-get install ipython
+<pre><code>$ sudo apt-get install ipython
     Installed packages (automatic):
         python-configobj
         python-decorator
@@ -37,8 +33,7 @@ $ sudo apt-get install ipython
 </code></pre>
 
 - Optional
-<pre><code>
-$ sudo apt-get install ipython-qfconsole  [Recommend]
+<pre><code>$ sudo apt-get install ipython-qfconsole  [Recommend]
     Installed packages (automatic):
         libpgm-5.1.0
         libzmq1
@@ -52,14 +47,12 @@ $ sudo apt-get install python-numpy
 
 ### Windows
 - Mandatory
-<pre><code>
-IPython:      pip install ipython
+<pre><code>IPython:      pip install ipython
 PyReadline:   pip install pyreadline 
 </code></pre>
 
 - Optional
-<pre><code>
-Pygments:     pip instal Pygments
+<pre><code>Pygments:     pip instal Pygments
 PyQt:         http://sourceforge.net/projects/pyqt/ 
 PySide        easy_install pyside
 </code></pre>
@@ -68,6 +61,10 @@ PySide        easy_install pyside
 - Copy the style file to `/usr/lib/python2.7/dist-packages/pygments/styles` folder
 - Copy .config folder to `$HOME/.config`
 
+# Screenshots
+## IDLE Screenshots:
+![IDLE1](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/IDLE1.png?raw=true)
+![IDLE2](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/Screenshot2.png?raw=true)
 ## IPython screenshots
 - $ ipython
 ![IPython](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/ipython.png?raw=true)
