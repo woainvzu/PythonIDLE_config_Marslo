@@ -63,13 +63,11 @@ The configuration of Python IDLE
 </pre>
 
 - Optional
-<pre>
 <code>
     - Pygments:     pip instal Pygments
     - PyQt:         http://sourceforge.net/projects/pyqt/ 
     - PySide        easy_install pyside
 </code>
-</pre>
 
 ## Configuration:
     - Copy the style file to `/usr/lib/python2.7/dist-packages/pygments/styles` folder
