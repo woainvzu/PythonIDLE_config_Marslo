@@ -28,18 +28,16 @@ The configuration of Python IDLE
 
 ### Linux(Ubuntu)
 - Mandatory
-<pre>
-<code>
+<pre><code>
     - $ sudo apt-get install ipython
         - Installed packages (automatic):
            - python-configobj
            - python-decorator
            - python-simplegeneric
-</code>
-</pre>
+</code></pre>
+
 - Optional
-<pre>
-<code>
+<pre><code>
     - $ sudo apt-get install ipython-qfconsole  [Recommend]
         - Installed packages (automatic):
             - libpgm-5.1.0
@@ -50,24 +48,21 @@ The configuration of Python IDLE
     - $ sudo apt-get install notebook
     - $ sudo apt-get install python-matplotlib
     - $ sudo apt-get install python-numpy
-</code>
-</pre>
+</code></pre>
 
 ### Windows
 - Mandatory
-<pre>
-<code>
+<pre><code>
     - IPython:      pip install ipython
     - PyReadline:   pip install pyreadline 
-</code>
-</pre>
+</code></pre>
 
 - Optional
-<code>
+<pre><code>
     - Pygments:     pip instal Pygments
     - PyQt:         http://sourceforge.net/projects/pyqt/ 
     - PySide        easy_install pyside
-</code>
+</code></pre>
 
 ## Configuration:
     - Copy the style file to `/usr/lib/python2.7/dist-packages/pygments/styles` folder
