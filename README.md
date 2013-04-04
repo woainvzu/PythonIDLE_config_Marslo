@@ -28,14 +28,20 @@ The configuration of Python IDLE
 
 ### Linux(Ubuntu)
 - Mandatory
+<pre>
+<code>
     - $ sudo apt-get install ipython
-        - Installed packages:
+        - Installed packages (automatic):
            - python-configobj
            - python-decorator
            - python-simplegeneric
+</code>
+</pre>
 - Optional
+<pre>
+<code>
     - $ sudo apt-get install ipython-qfconsole  [Recommend]
-        - Installed packages:
+        - Installed packages (automatic):
             - libpgm-5.1.0
             - libzmq1
             - python-pygments
@@ -44,20 +50,33 @@ The configuration of Python IDLE
     - $ sudo apt-get install notebook
     - $ sudo apt-get install python-matplotlib
     - $ sudo apt-get install python-numpy
+</code>
+</pre>
 
 ### Windows
 - Mandatory
+<pre>
+<code>
     - IPython:      pip install ipython
     - PyReadline:   pip install pyreadline 
+</code>
+</pre>
+
 - Optional
+<pre>
+<code>
     - Pygments:     pip instal Pygments
     - PyQt:         http://sourceforge.net/projects/pyqt/ 
     - PySide        easy_install pyside
+</code>
+</pre>
+
 ## Configuration:
-    - Copy the style file to /usr/lib/python2.7/dist-packages/pygments/styles
-    - Copy .config folder to $HOME/.config
+    - Copy the style file to `/usr/lib/python2.7/dist-packages/pygments/styles` folder
+    - Copy .config folder to `$HOME/.config`
+
 ## IPython screenshots
-- `$ ipython`
+- $ ipython
 ![IPython](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/ipython.png?raw=true)
-- `$ ipython qtconsole --IPythonWidget.font_size=12 --IPythonWidget.font_family=Monaco --color=linux --style=marslo`
+- $ ipython qtconsole --IPythonWidget.font_size=12 --IPythonWidget.font_family=Monaco --color=linux --style=marslo
 ![IPython QTConsole](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/qfconsole.png?raw=true)
