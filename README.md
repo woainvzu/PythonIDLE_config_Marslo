@@ -58,8 +58,14 @@ PySide        easy_install pyside
 </code></pre>
 
 ## Configuration:
+### Linux(Ubuntu)
 - Copy the style file to `/usr/lib/python2.7/dist-packages/pygments/styles` folder
 - Copy .config folder to `$HOME/.config`
+### Windows
+- Copy the Style file to `$PYTHONHOME\Lib\site-packages\pygments\sytles` folder.
+    - For example: Copy `marslo.py` to `C:\Python27\Lib\site-packages\pygments\styles`
+- Copy the `.ipython` to `%HOMEPATH%`
+    - For example: Copy the whole `.ipython` foler to `C:\Users\<USERNAME>` (Win7); `C:\Documents and Settings\<USERNAME>` (Windows XP)
 
 # Screenshots
 ## IDLE Screenshots:
@@ -70,3 +76,4 @@ PySide        easy_install pyside
 ![IPython](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/ipython.png?raw=true)
 - $ ipython qtconsole --IPythonWidget.font_size=12 --IPythonWidget.font_family=Monaco --color=linux --style=marslo
 ![IPython QTConsole](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/qfconsole.png?raw=true)
+- $ ipython qtconsole against Windows (Using shortcurts: qtconsole)
