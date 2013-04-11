@@ -61,6 +61,7 @@ PySide        easy_install pyside
 ### Linux(Ubuntu)
 - Copy the style file to `/usr/lib/python2.7/dist-packages/pygments/styles` folder
 - Copy .config folder to `$HOME/.config`
+
 ### Windows
 - Copy the Style file to `$PYTHONHOME\Lib\site-packages\pygments\sytles` folder.
     - For example: Copy `marslo.py` to `C:\Python27\Lib\site-packages\pygments\styles`
