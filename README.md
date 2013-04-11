@@ -70,7 +70,7 @@ PySide        easy_install pyside
 
 # Screenshots
 ## IDLE Screenshots:
-![IDLE1](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/IDLE1.png?raw=true)
+![IDLE1](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/IDLE_Marslo4.png?raw=true)
 ![IDLE2](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/Screenshot2.png?raw=true)
 ## IPython screenshots
 - $ ipython
@@ -78,3 +78,4 @@ PySide        easy_install pyside
 - $ ipython qtconsole --IPythonWidget.font_size=12 --IPythonWidget.font_family=Monaco --color=linux --style=marslo
 ![IPython QTConsole](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/qfconsole.png?raw=true)
 - $ ipython qtconsole against Windows (Using shortcurts: qtconsole)
+![Ipython_qtconsole_windows](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/Ipython_Qtconsole_Windows.png?raw=true)
