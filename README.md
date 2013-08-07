@@ -85,4 +85,6 @@ PySide        easy_install pyside
 ![IPython QTConsole](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/qfconsole.png?raw=true)
 - $ ipython qtconsole against Windows (Using shortcurts: qtconsole)
 ![Ipython_qtconsole_windows](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/Ipython_Qtconsole_Windows.png?raw=true)
+
 ## Spyder
+![Spyder](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/spyder.png?raw=true)
