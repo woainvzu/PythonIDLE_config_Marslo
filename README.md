@@ -57,7 +57,7 @@ PyQt:         http://sourceforge.net/projects/pyqt/
 PySide        easy_install pyside
 </code></pre>
 
-## Configuration:
+## Configuration
 ### Linux(Ubuntu)
 - Copy the style file to `/usr/lib/python2.7/dist-packages/pygments/styles` folder
 - Copy .config folder to `$HOME/.config`
@@ -67,6 +67,12 @@ PySide        easy_install pyside
     - For example: Copy `marslo.py` to `C:\Python27\Lib\site-packages\pygments\styles`
 - Copy the `.ipython` to `%HOMEPATH%`
     - For example: Copy the whole `.ipython` foler to `C:\Users\<USERNAME>` (Win7); `C:\Documents and Settings\<USERNAME>` (Windows XP)
+
+# Spyder2
+## Installation
+- Copy the `.spyder2` folder to `%HOMEPATH%`
+    - For example: Copy the whole `.spyder2` foler to `C:\Users\<USERNAME>` (Win7); `C:\Documents and Settings\<USERNAME>` (Windows XP)
+- Restart the spyder
 
 # Screenshots
 ## IDLE Screenshots:
@@ -79,3 +85,4 @@ PySide        easy_install pyside
 ![IPython QTConsole](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/qfconsole.png?raw=true)
 - $ ipython qtconsole against Windows (Using shortcurts: qtconsole)
 ![Ipython_qtconsole_windows](https://github.com/woainvzu/PythonIDLE_config_Marslo/blob/master/Screenshots/Ipython_Qtconsole_Windows.png?raw=true)
+## Spyder
