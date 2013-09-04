@@ -14,10 +14,15 @@ The configuration of Python IDLE
 - Re-start IDLE
 
 ## Specific Shortcuts:
-- Ctrl+p: Previous history
-- Ctrl+n: Next history
-- Alt+p:  Print page
-- Alt+n:  New page
+- `Ctrl + p`: Previous history
+- `Ctrl + n`: Next history
+- `Ctrl + a`: Begin of the line
+- `Ctrl + e`: End of the line
+- `Alt + d`: Delete word right
+- `Ctrl + w`: Delete word left
+- `Alt + p`:  Print page
+- `Alt + n`:  New page
+- `Ctrl + Shift + a`: Select all
 
 
 # IPython
